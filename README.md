@@ -2,6 +2,8 @@
 
 The most common methods used for REST APIs are GET, POST, PUT, and DELETE
 
+!! There is some database-related stuff on branch `database`
+
 ## On the server side
 
 In a Flask application, these correspond to their respective decorators (if using a Flask version > 2.0)
